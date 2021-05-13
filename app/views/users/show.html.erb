@@ -1,0 +1,33 @@
+<div class="container">
+
+  <div class="row">
+
+  <%= render 'users/sidebar', user: @user, book: @book_new %>
+
+  <div class="col-lg-8">
+
+    <div class="row">
+      <h2 class="col col-log2">Books</h2>
+    </div>
+    <div class="row">
+      <p class="col col-log2"></p>
+      <p class="col col-log4">title</p>
+      <p class="col col-log6">opinion</p>
+    </div>
+    <% @books.each do |book| %>
+      <div class="row">
+        <p class="col col-log2">
+          <%= link_to book_path(book.id) do %>
+          <%= attachment_image_tag book.user, :profile_image %>
+          <% end %>
+          <%= book.user.name %>
+        </p>
+        <p class="col col-log4"><%=link_to book.title, book_path(book.id) %></p>
+        <p class="col col-log6"><%= book.opinion %></p>
+      </div>
+    <% end %>
+  </div>
+
+  </div>
+
+</div>

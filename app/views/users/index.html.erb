@@ -1,0 +1,25 @@
+<div class="container">
+  <%= flash[:notice] %>
+  <div class="row">
+  
+    <%= render 'users/sidebar', user: @user, book: @book %>
+
+    <div class="col-lg-8">
+      <div class="row">
+        <h2 class="col col-log2">Users</h2>
+      </div>
+      <div class="row">
+        <p class="col col-log2">Image</p>
+        <p class="col col-log4">Name</p>
+        <p class="col col-log6"></p>
+      </div>
+      <% @users.each do |user| %>
+        <div class="row">
+          <p class="col col-log2"><%= attachment_image_tag user, :profile_image, format: 'jpeg', fallback: "no_image.jpg" %></p>
+          <p class="col col-log4"><%= user.name %></p>
+          <p class="col col-log6"><%=link_to "show", user_path(user.id) %></p>
+        </div>
+      <% end %>
+    </div>
+  </div>
+</div>

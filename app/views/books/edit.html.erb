@@ -1,0 +1,29 @@
+<div class="container d-flex justify-content-center">
+  <div class="row">
+    <div class="col">
+      <% if @book.errors.any? %>
+      <%= @book.errors.count %>件のエラーが発生しました
+      <% @book.errors.full_messages.each do |message| %>
+      <%= message %>
+      <% end %>
+      <% end %>
+    </div>
+  </div>
+</div>
+
+<div class="container d-flex justify-content-center">
+  <div class="row">
+    <h1 class="col">Editting Book</h1>
+  </div>
+</div>
+<div class="container d-flex justify-content-center">
+  <div class="row">
+    <%= form_with model:@book, local: true do |f| %>
+      <h4 class="col">Title</h4>
+      <%= f.text_field :title %>
+      <h4 class="col">Opinion</h4>
+      <%= f.text_field :opinion %>
+      <%= f.submit 'Update Book' , class: "btn btn-secondary"%>
+    <% end %>
+  </div>
+</div>

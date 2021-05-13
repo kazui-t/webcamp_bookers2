@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title>Bookers2</title>
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+
+    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+  </head>
+
+    <header>
+      <nav>
+        <% if user_signed_in? %>
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col d-flex justify-content-start">
+              <%= link_to "Bookers2", root_path %>
+            </div>
+            <div class="col d-flex justify-content-end">
+              <div class="col-md-auto">
+                <%= link_to "Home", user_path(current_user.id) %>
+              </div>
+              <div class="col-md-auto">
+                <%= link_to "Users", users_index_path %>
+              </div>
+              <div class="col-md-auto">
+                <%= link_to "Books", books_path %>
+              </div>
+              <div class="col-md-auto">
+                <%= link_to "logout", destroy_user_session_path, method: :delete %>
+              </div>
+            </div>
+          </div>
+        </div>
+        <% else %>
+          <div class="row">
+            <div class="col d-flex justify-content-start">
+              <%= link_to "Bookers2", root_path %>
+            </div>
+            <div class="col d-flex justify-content-end">
+              <div class="col-md-auto">
+                <%= link_to "Home", root_path %>
+              </div>
+              <div class="col-md-auto">
+                <%= link_to "About", homes_index_path %>
+              </div>
+              <div class="col-md-auto">
+                <%= link_to "sign up", new_user_registration_path %>
+              </div>
+              <div class="col col-log8">
+                <%= link_to "login", new_user_session_path %>
+              </div>
+            </div>
+          </div>
+        <% end %>
+      </nav>
+    </header>
+  
+  <div>
+    
+  <% flash.each do |key, value| %>
+    <%= content_tag(:div, value, class: "#{key}") %>
+  <% end %>
+  
+  </div>
+  
+  <%= yield %>
+  
+  <footer class="container d-flex justify-content-center">
+    <div class="row">
+      <p class="col">CopyRight Infratop.inc</p>
+    </div>
+  </footer>
+
+</html>

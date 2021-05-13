@@ -1,0 +1,25 @@
+<div class="container d-flex justify-content-center">
+  <% if @user.errors.any? %>
+  <%= @user.errors.count %>件のエラーが発生しました
+  <% @user.errors.full_messages.each do |message| %>
+    <%= message %>
+  <% end %>
+  <% end %>
+</div>
+
+<div class="container d-flex justify-content-center">
+  <div class="row">
+    <div class="col">
+    <h2 class="col">プロフィール編集</h2>
+    <%= form_with model:@user, local:true do |f| %>
+      <label class="col", for="inputName", class="col">Name</label>
+      <%= f.text_field :name, autofocus: true, id:"inputName", placeholder:"名前"%>
+      <label class="col", for="inputImage">Image</label>
+      <%= f.attachment_field :profile_image, placeholder: "プロフィール画像" %>
+      <label class="col", for="inputIntroduction">Introduction</label>
+      <%= f.text_field :introduce, autofocus: true, id:"inputIntroduce", placeholder:"自己紹介"%>
+      <%= f.submit "Update User", class: "btn btn-secondary" %>
+    <% end %>
+    </div>
+  </div>
+</div>
