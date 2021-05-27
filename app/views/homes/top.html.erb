@@ -1,14 +1,14 @@
 <div class="container d-flex justify-content-center">
   <div class="">
-    <h1 class="col">welcome to bookers!!</h1>
-    <p class="col">in bookers,</p>
+    <h1 class="col">welcome to <i class="fas fa-book"></i>bookers!!</h1>
+    <p class="col">in <i class="fas fa-book"></i>bookers,</p>
     <p class="col">you can share and exchange your opinions , inpressions , and emotions</p>
     <p class="col">about various books!</p>
     <div class="container d-flex justify-content-center">
       <div class="row">
         <div class="col">
-          <div><%= link_to "login", new_user_session_path %></div>
-          <div><%= link_to "sign up", new_user_registration_path %></div>
+          <div class="btn btn-info btn-sm btn-block mb-3"><%= link_to "Log in", new_user_session_path %></div>
+          <div class="btn btn-info btn-sm btn-block mb-3"><%= link_to "Sign Up", new_user_registration_path %></div>
         </div>
       </div>
     </div>

@@ -4,30 +4,26 @@
 
     <%= render 'books/sidebar', user: @user, book: @book_new %>
 
-    <div class="col-lg-8">
-      <div class="col">
-        <table class="table table-striped">
-          
-          <h2 class="col col-log2">Books Detail</h2>
-        
-          <div class="row">
-            <div class="col col-log2">
-              <%= link_to books_path do %>
-              <%= attachment_image_tag @book.user, :profile_image %>
-              <%= @book.user.name %>
-              <% end %>
-            </div>
-            <p class="col col-log4"><%=link_to @book.title, book_path(@book.id) %></p>
-            <p class="col col-log6"><%= @book.opinion %></p>
-            <% if user_signed_in? && current_user.id == @book.user_id %>
-            <div class="col col-log8"><%= link_to "Edit", edit_book_path(@book), class: "btn btn-secondary" %></div>
-            <div class="col col-log10"><%= link_to "Destroy", book_path(@book), method: :delete, class: "btn btn-secondary" %></div>
+    <div class="col-md-8 offset-md-1">
+      <h2>Book detail</h2>
+      <table class="table">
+        <tbody>
+          <tr>
+              <td>
+                <%= link_to user_path(@book.user.id) do %>
+                <%= attachment_image_tag @book.user, :profile_image, :fill, 100, 100, format: 'jpeg' %>
+                <%= @book.user.name %>
+              </td>
+                <% end %>
+              <td><%=link_to @book.title, book_path(@book.id) %></td>
+              <td><%= @book.body %></td>
+              <% if user_signed_in? && current_user.id == @book.user_id %>
+              <td><%= link_to "Edit", edit_book_path(@book), class: "btn btn-secondary" %></td>
+              <td><%= link_to "Destroy", book_path(@book), method: :delete, class: "btn btn-secondary" %></td>
             <% end %>
-          </div>
-          
-        </table>
-      </div>
+          </tr>
+        </tbody>
+      </table>
     </div>
   </div>
-
 </div>

@@ -287,7 +287,7 @@ Failures:
      [31mFailure/Error: let(:user) { create(:user) }[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `introduction=' for #<User:0x00000000065ef2f8>[0m
+     [31m  undefined method `introduction=' for #<User:0x000000000666fe80>[0m
      [31m  Did you mean?  introduce=[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -308,7 +308,7 @@ Failures:
      [31mFailure/Error: let(:user) { create(:user) }[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `introduction=' for #<User:0x000000000725ad58>[0m
+     [31m  undefined method `introduction=' for #<User:0x00000000072b3bb0>[0m
      [31m  Did you mean?  introduce=[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -329,7 +329,7 @@ Failures:
      [31mFailure/Error: let(:user) { create(:user) }[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `introduction=' for #<User:0x0000000007267080>[0m
+     [31m  undefined method `introduction=' for #<User:0x00000000072bfc58>[0m
      [31m  Did you mean?  introduce=[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -350,7 +350,7 @@ Failures:
      [31mFailure/Error: let(:user) { create(:user) }[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `introduction=' for #<User:0x0000000007273268>[0m
+     [31m  undefined method `introduction=' for #<User:0x00000000072cbe18>[0m
      [31m  Did you mean?  introduce=[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -371,7 +371,7 @@ Failures:
      [31mFailure/Error: let!(:other_user) { create(:user) }[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `introduction=' for #<User:0x0000000007298860>[0m
+     [31m  undefined method `introduction=' for #<User:0x00000000072f1410>[0m
      [31m  Did you mean?  introduce=[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -391,7 +391,7 @@ Failures:
      [31mFailure/Error: let!(:other_user) { create(:user) }[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `introduction=' for #<User:0x00000000072a43e0>[0m
+     [31m  undefined method `introduction=' for #<User:0x00000000072fcea0>[0m
      [31m  Did you mean?  introduce=[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -411,7 +411,7 @@ Failures:
      [31mFailure/Error: let!(:other_user) { create(:user) }[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `introduction=' for #<User:0x00000000072b0bb8>[0m
+     [31m  undefined method `introduction=' for #<User:0x00000000073093a8>[0m
      [31m  Did you mean?  introduce=[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -431,7 +431,7 @@ Failures:
      [31mFailure/Error: let!(:other_user) { create(:user) }[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `introduction=' for #<User:0x00000000072bd160>[0m
+     [31m  undefined method `introduction=' for #<User:0x00000000073159f0>[0m
      [31m  Did you mean?  introduce=[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -451,7 +451,7 @@ Failures:
      [31mFailure/Error: let!(:other_user) { create(:user) }[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `introduction=' for #<User:0x00000000072c9500>[0m
+     [31m  undefined method `introduction=' for #<User:0x00000000073221c8>[0m
      [31m  Did you mean?  introduce=[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -471,7 +471,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000072d58f0>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000732dd48>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -491,7 +491,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000072e12b8>[0m
+      [31m  undefined method `introduction=' for #<User:0x00000000073398c8>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -511,7 +511,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000072ed428>[0m
+      [31m  undefined method `introduction=' for #<User:0x0000000007345a88>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -624,7 +624,7 @@ Failures:
       [31mFailure/Error: let(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000800c820>[0m
+      [31m  undefined method `introduction=' for #<User:0x00000000073028a0>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -645,7 +645,7 @@ Failures:
       [31mFailure/Error: let(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000008355f90>[0m
+      [31m  undefined method `introduction=' for #<User:0x00000000077c8a38>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -666,7 +666,7 @@ Failures:
       [31mFailure/Error: let(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000008da6a30>[0m
+      [31m  undefined method `introduction=' for #<User:0x0000000007ead4c0>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -687,7 +687,7 @@ Failures:
       [31mFailure/Error: let(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000008deb568>[0m
+      [31m  undefined method `introduction=' for #<User:0x0000000008073390>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -708,7 +708,7 @@ Failures:
       [31mFailure/Error: let(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000092e38e0>[0m
+      [31m  undefined method `introduction=' for #<User:0x0000000008217390>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -729,7 +729,7 @@ Failures:
       [31mFailure/Error: let(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009330640>[0m
+      [31m  undefined method `introduction=' for #<User:0x0000000008c27678>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -750,7 +750,7 @@ Failures:
       [31mFailure/Error: let(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000937f808>[0m
+      [31m  undefined method `introduction=' for #<User:0x00000000092f4500>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -771,7 +771,7 @@ Failures:
       [31mFailure/Error: let(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000093c8170>[0m
+      [31m  undefined method `introduction=' for #<User:0x00000000093d9b50>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -792,7 +792,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000093f42e8>[0m
+      [31m  undefined method `introduction=' for #<User:0x00000000094531a8>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -812,7 +812,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000094235c0>[0m
+      [31m  undefined method `introduction=' for #<User:0x00000000094590f8>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -832,7 +832,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000944ad50>[0m
+      [31m  undefined method `introduction=' for #<User:0x00000000094c3700>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -852,7 +852,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009471248>[0m
+      [31m  undefined method `introduction=' for #<User:0x0000000009594350>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -872,7 +872,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009494e50>[0m
+      [31m  undefined method `introduction=' for #<User:0x0000000009057e28>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -892,7 +892,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000094bc928>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000907f388>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -912,7 +912,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000094e4478>[0m
+      [31m  undefined method `introduction=' for #<User:0x0000000009126ca0>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -932,7 +932,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000095136b0>[0m
+      [31m  undefined method `introduction=' for #<User:0x00000000091517c0>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -952,7 +952,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000095373f8>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000918d2c0>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -972,7 +972,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000955f308>[0m
+      [31m  undefined method `introduction=' for #<User:0x00000000091b0a68>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -992,7 +992,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009582ba0>[0m
+      [31m  undefined method `introduction=' for #<User:0x00000000091d8680>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1012,7 +1012,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000095aa830>[0m
+      [31m  undefined method `introduction=' for #<User:0x00000000083c0598>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1032,7 +1032,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000095d1e08>[0m
+      [31m  undefined method `introduction=' for #<User:0x00000000083e4060>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1052,7 +1052,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000095f9660>[0m
+      [31m  undefined method `introduction=' for #<User:0x00000000084137c0>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1072,7 +1072,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000961d4e8>[0m
+      [31m  undefined method `introduction=' for #<User:0x0000000008e26bb8>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1092,7 +1092,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000964bf50>[0m
+      [31m  undefined method `introduction=' for #<User:0x0000000008e4de98>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1112,7 +1112,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009673af0>[0m
+      [31m  undefined method `introduction=' for #<User:0x0000000008e75588>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1132,7 +1132,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009699ea8>[0m
+      [31m  undefined method `introduction=' for #<User:0x0000000002db0ba8>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1152,7 +1152,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000096bd678>[0m
+      [31m  undefined method `introduction=' for #<User:0x0000000004f06d70>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1172,7 +1172,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000096e50d8>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000611e4e0>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1192,7 +1192,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000970ccf0>[0m
+      [31m  undefined method `introduction=' for #<User:0x0000000006661448>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1212,7 +1212,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009734868>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000708aa00>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1232,7 +1232,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000975c598>[0m
+      [31m  undefined method `introduction=' for #<User:0x00000000070fd1b8>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1252,7 +1252,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009788030>[0m
+      [31m  undefined method `introduction=' for #<User:0x00000000071d69b8>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1272,7 +1272,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000097baf80>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000720b0a0>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1292,7 +1292,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000097e6c98>[0m
+      [31m  undefined method `introduction=' for #<User:0x00000000072b2878>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1312,7 +1312,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009812c80>[0m
+      [31m  undefined method `introduction=' for #<User:0x00000000072d4608>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1332,7 +1332,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000983ec68>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000730f118>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1352,7 +1352,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000986a4f8>[0m
+      [31m  undefined method `introduction=' for #<User:0x00000000073316a0>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1372,7 +1372,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009896508>[0m
+      [31m  undefined method `introduction=' for #<User:0x00000000073558c0>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1392,7 +1392,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000098c1a50>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000738fdb8>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1412,7 +1412,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000098ed218>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000741edd8>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1432,7 +1432,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000099180f8>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000747dbd0>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1452,7 +1452,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000994e8b0>[0m
+      [31m  undefined method `introduction=' for #<User:0x00000000074ff630>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1472,7 +1472,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009979b50>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000759efa0>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1492,7 +1492,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000099a5930>[0m
+      [31m  undefined method `introduction=' for #<User:0x00000000076103a8>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1512,7 +1512,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000099d0068>[0m
+      [31m  undefined method `introduction=' for #<User:0x00000000076a2bb8>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1532,7 +1532,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009a03c60>[0m
+      [31m  undefined method `introduction=' for #<User:0x00000000076f7140>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1552,7 +1552,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009a2fa90>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000776f848>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1572,7 +1572,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009a5ba00>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000781d6c8>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1592,7 +1592,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009a87970>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000787a1e8>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1612,7 +1612,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009ab2dc8>[0m
+      [31m  undefined method `introduction=' for #<User:0x0000000007906198>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1632,7 +1632,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009ade6d0>[0m
+      [31m  undefined method `introduction=' for #<User:0x00000000079c2f00>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1652,7 +1652,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009b096f0>[0m
+      [31m  undefined method `introduction=' for #<User:0x0000000007a66628>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1672,7 +1672,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009b34968>[0m
+      [31m  undefined method `introduction=' for #<User:0x00000000071b4a70>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1692,7 +1692,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009b67e08>[0m
+      [31m  undefined method `introduction=' for #<User:0x00000000070cdb98>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1712,7 +1712,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009b920e0>[0m
+      [31m  undefined method `introduction=' for #<User:0x00000000065646d0>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1732,7 +1732,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009bc15e8>[0m
+      [31m  undefined method `introduction=' for #<User:0x0000000005ded190>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1752,7 +1752,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009bece00>[0m
+      [31m  undefined method `introduction=' for #<User:0x00000000070e25e8>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1772,7 +1772,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009c1ca38>[0m
+      [31m  undefined method `introduction=' for #<User:0x0000000007182688>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1792,7 +1792,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009c53948>[0m
+      [31m  undefined method `introduction=' for #<User:0x0000000006fd0ab0>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1812,7 +1812,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009c83620>[0m
+      [31m  undefined method `introduction=' for #<User:0x0000000006f56468>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1832,7 +1832,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009cb2ee8>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000778cd08>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1852,7 +1852,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009ce2aa8>[0m
+      [31m  undefined method `introduction=' for #<User:0x00000000077cb080>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1872,7 +1872,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009d0dfa0>[0m
+      [31m  undefined method `introduction=' for #<User:0x0000000007af7b28>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1892,7 +1892,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000032af4b0>[0m
+      [31m  undefined method `introduction=' for #<User:0x0000000007b37318>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1912,7 +1912,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000004f22048>[0m
+      [31m  undefined method `introduction=' for #<User:0x0000000007b764f0>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1932,7 +1932,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000060b0ee0>[0m
+      [31m  undefined method `introduction=' for #<User:0x0000000007db5e50>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1952,7 +1952,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000006663608>[0m
+      [31m  undefined method `introduction=' for #<User:0x0000000007df6018>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1972,7 +1972,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000007002178>[0m
+      [31m  undefined method `introduction=' for #<User:0x0000000007e3deb8>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -1992,7 +1992,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000707b050>[0m
+      [31m  undefined method `introduction=' for #<User:0x0000000007e86438>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2012,7 +2012,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000070ee2f8>[0m
+      [31m  undefined method `introduction=' for #<User:0x0000000007ebc6f0>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2032,7 +2032,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000071d0860>[0m
+      [31m  undefined method `introduction=' for #<User:0x0000000007efd4c0>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2052,7 +2052,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000007249f58>[0m
+      [31m  undefined method `introduction=' for #<User:0x0000000007f45338>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2072,7 +2072,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000726d2f0>[0m
+      [31m  undefined method `introduction=' for #<User:0x0000000007f86108>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2092,7 +2092,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000072a13c0>[0m
+      [31m  undefined method `introduction=' for #<User:0x0000000007fc7ab8>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2112,7 +2112,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000072c0888>[0m
+      [31m  undefined method `introduction=' for #<User:0x0000000007ffb6b0>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2132,7 +2132,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000072e73c0>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000802ca08>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2152,7 +2152,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000007305460>[0m
+      [31m  undefined method `introduction=' for #<User:0x0000000008069660>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2172,7 +2172,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000007329d60>[0m
+      [31m  undefined method `introduction=' for #<User:0x00000000080a5318>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2192,7 +2192,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000073a0690>[0m
+      [31m  undefined method `introduction=' for #<User:0x00000000080e46d0>[0m
       [31m  Did you mean?  introduce=[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2212,7 +2212,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000007428ec8>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000008128920>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2232,7 +2232,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x00000000074bbca0>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000008168db8>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2252,7 +2252,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000007518568>[0m
+       [31m  undefined method `introduction=' for #<User:0x00000000081a9f70>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2272,7 +2272,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x00000000075a7970>[0m
+       [31m  undefined method `introduction=' for #<User:0x00000000081c4b90>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2292,7 +2292,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000007604d28>[0m
+       [31m  undefined method `introduction=' for #<User:0x00000000081face0>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2312,7 +2312,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000767dac0>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000008223320>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2332,7 +2332,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000754f7c0>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000008247338>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2352,7 +2352,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000779ac78>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000008260fb8>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2372,7 +2372,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000007826f20>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000828d8b0>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2392,7 +2392,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x00000000078c8550>[0m
+       [31m  undefined method `introduction=' for #<User:0x00000000083904d8>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2412,7 +2412,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000007976b00>[0m
+       [31m  undefined method `introduction=' for #<User:0x00000000083ae028>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2432,7 +2432,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000007a04018>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000008c250d0>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2452,7 +2452,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x00000000066d9858>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000008c769f8>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2472,7 +2472,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000005038c48>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000008c5ce68>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2492,7 +2492,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000007020cb8>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000008d4a758>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2512,7 +2512,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000002a52330>[0m
+       [31m  undefined method `introduction=' for #<User:0x00000000088a0f40>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2532,7 +2532,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000007050198>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000008c48170>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2552,7 +2552,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000711f0d8>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000008f458f0>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2572,7 +2572,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000006f1f2d8>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000008d3ad30>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2592,7 +2592,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000006eb1e18>[0m
+       [31m  undefined method `introduction=' for #<User:0x00000000092e9e98>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2612,7 +2612,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000007734a18>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000009302f38>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2632,7 +2632,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000007a66ab0>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000009311b28>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2652,7 +2652,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000007aaef90>[0m
+       [31m  undefined method `introduction=' for #<User:0x00000000093588c0>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2672,7 +2672,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000007affd28>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000936fc50>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2692,7 +2692,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000007d3c7f8>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000937a420>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2712,7 +2712,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000007d74f90>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000009385e60>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2732,7 +2732,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000007dc5af8>[0m
+       [31m  undefined method `introduction=' for #<User:0x00000000093cd558>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2752,7 +2752,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000007e0d100>[0m
+       [31m  undefined method `introduction=' for #<User:0x00000000093dfa00>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2772,7 +2772,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000007e4e2b8>[0m
+       [31m  undefined method `introduction=' for #<User:0x00000000093eb0f8>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2792,7 +2792,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000007e8ba28>[0m
+       [31m  undefined method `introduction=' for #<User:0x00000000093f9c48>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2812,7 +2812,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000007ec6970>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000943fcc0>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2832,7 +2832,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000007f07470>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000009451dd0>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2852,7 +2852,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000007f3c800>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000009463968>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2872,7 +2872,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000007f7e1d8>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000947ba68>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2892,7 +2892,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000007fbabd8>[0m
+       [31m  undefined method `introduction=' for #<User:0x00000000094cf4d8>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2912,7 +2912,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000007ff0e68>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000009505358>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2932,7 +2932,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000802df70>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000009594ff8>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2952,7 +2952,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000806ac90>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000009056938>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2972,7 +2972,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x00000000080a48f0>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000907c390>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -2992,7 +2992,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x00000000080e5210>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000009136678>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -3012,7 +3012,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000812fc48>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000916add8>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -3032,7 +3032,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000008163ea8>[0m
+       [31m  undefined method `introduction=' for #<User:0x00000000091b2340>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -3052,7 +3052,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000817ecd0>[0m
+       [31m  undefined method `introduction=' for #<User:0x00000000091dd7e8>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -3072,7 +3072,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000008194cd8>[0m
+       [31m  undefined method `introduction=' for #<User:0x00000000083d6190>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -3092,7 +3092,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x00000000081b9858>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000008413c70>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -3112,7 +3112,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x00000000081ded10>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000008e37c38>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -3132,7 +3132,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x00000000081f26f8>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000008e58de8>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -3152,7 +3152,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000008219ed8>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000008e89ec0>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -3172,7 +3172,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000008323f18>[0m
+       [31m  undefined method `introduction=' for #<User:0x00000000099ecc40>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -3192,7 +3192,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000008c9a380>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000009a18750>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -3212,7 +3212,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000008e68220>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000009a4b880>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -3232,7 +3232,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000008822e60>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000009a73718>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -3252,7 +3252,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000008d7de50>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000009a9f660>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -3272,7 +3272,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000008a1d7d8>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000009acaa40>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -3292,7 +3292,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000008cb2ea8>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000009af1370>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -3312,7 +3312,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000008cbd218>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000009b236e0>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -3332,7 +3332,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x00000000086dae18>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000009b52c10>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -3352,7 +3352,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000009262498>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000009b82550>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -3372,7 +3372,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000009277c58>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000009bb2188>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -3392,7 +3392,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000009285330>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000009bdc8e8>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -3412,7 +3412,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x00000000092d7b80>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000009c13960>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -3432,7 +3432,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000834a370>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000009c42990>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -3452,7 +3452,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x00000000083619a8>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000009c72410>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -3472,7 +3472,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000008390758>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000009ca1ad0>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -3492,7 +3492,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000008d9ac30>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000009cd18c0>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -3512,7 +3512,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000008dab990>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000009d07ee8>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -3532,7 +3532,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000008dcbe98>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000009d37d50>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -3552,7 +3552,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000008dd68c0>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000009d67140>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -3572,7 +3572,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000008de0708>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000009d92c78>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -3592,7 +3592,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000008e0c8a8>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000009dc1e88>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -3612,7 +3612,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x0000000008e223d8>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000009df1160>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -3632,7 +3632,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x00000000092d8da0>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000009e20910>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -3652,7 +3652,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x00000000092feac8>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000009e4c128>[0m
        [31m  Did you mean?  introduce=[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
@@ -3668,7 +3668,7 @@ Failures:
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/strategy_syntax_method_registrar.rb:28:in `block in define_singular_strategy_method'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:5:in `block (2 levels) in <main>'[0m
 
-Finished in 2 seconds (files took 3.68 seconds to load)
+Finished in 3.14 seconds (files took 3.91 seconds to load)
 [31m197 examples, 172 failures[0m
 
 Failed examples:

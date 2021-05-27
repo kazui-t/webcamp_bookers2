@@ -1,4 +1,5 @@
 class UsersController < ApplicationController
+  before_action :authenticate_user!
   def index
     @books = Book.all
     @book = Book.new
@@ -14,12 +15,13 @@ class UsersController < ApplicationController
   end
 
   def edit
-    @user = User.find(params[:id])
-    if @book.user == current_user
-      render "edit"
-    else
-      redirect_to books_path
+    unless current_user.id == params[:id].to_i
+      redirect_to user_path(current_user.id)
     end
+    @user = User.find(params[:id]) # find DB にアクセス
+    # unless @user.id == current_user.id
+    #   redirect_to user_path(current_user.id)
+    # end
   end
 
   def update
@@ -35,7 +37,7 @@ class UsersController < ApplicationController
   private
 
   def user_params
-    params.require(:user).permit(:name, :profile_image, :introduce)
+    params.require(:user).permit(:name, :profile_image, :introduction)
   end
-
+  
 end

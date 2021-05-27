@@ -17,7 +17,7 @@
       <label class="col", for="inputImage">Image</label>
       <%= f.attachment_field :profile_image, placeholder: "プロフィール画像" %>
       <label class="col", for="inputIntroduction">Introduction</label>
-      <%= f.text_field :introduce, autofocus: true, id:"inputIntroduce", placeholder:"自己紹介"%>
+      <%= f.text_field :introduction, autofocus: true, id:"inputIntroduction", placeholder:"自己紹介"%>
       <%= f.submit "Update User", class: "btn btn-secondary" %>
     <% end %>
     </div>
